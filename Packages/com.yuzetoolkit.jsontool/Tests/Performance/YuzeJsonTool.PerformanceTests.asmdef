@@ -1,0 +1,39 @@
+{
+  "name": "YuzeJsonTool.PerformanceTests",
+  "rootNamespace": "YuzeToolkit.Json.PerformanceTests",
+  "references": [
+    "YuzeJsonTool.Core",
+    "Unity.PerformanceTesting"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "nunit.framework.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS",
+    "YUZE_USE_UNITY_TEST_FRAMEWORK",
+    "YUZE_USE_UNITY_PERFORMANCE_TESTING"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.unity.test-framework",
+      "expression": "1.0.0",
+      "define": "YUZE_USE_UNITY_TEST_FRAMEWORK"
+    },
+    {
+      "name": "com.unity.test-framework.performance",
+      "expression": "2.0.0",
+      "define": "YUZE_USE_UNITY_PERFORMANCE_TESTING"
+    }
+  ],
+  "noEngineReferences": false
+}

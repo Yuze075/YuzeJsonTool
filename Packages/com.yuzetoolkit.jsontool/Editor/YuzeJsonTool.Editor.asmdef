@@ -1,0 +1,19 @@
+{
+  "name": "YuzeJsonTool.Editor",
+  "rootNamespace": "YuzeToolkit.Json.Editor",
+  "references": [
+    "YuzeJsonTool.Core",
+    "YuzeJsonTool.Unity"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

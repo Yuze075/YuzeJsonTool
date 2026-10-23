@@ -1,0 +1,19 @@
+{
+  "name": "com.yuzetoolkit.jsontool",
+  "version": "0.1.0",
+  "displayName": "Yuze JSON Tool",
+  "description": "A portable JSON reader, writer, DOM and reflection serializer with pluggable high-performance converters for Unity and .NET.",
+  "unity": "2022.3",
+  "keywords": [
+    "json",
+    "serialization",
+    "reflection",
+    "aot",
+    "unity"
+  ],
+  "author": {
+    "name": "Yuze",
+    "email": "925581968@qq.com",
+    "url": "https://github.com/Yuze075"
+  }
+}

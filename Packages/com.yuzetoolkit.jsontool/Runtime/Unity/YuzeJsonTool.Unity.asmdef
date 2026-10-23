@@ -1,0 +1,16 @@
+{
+  "name": "YuzeJsonTool.Unity",
+  "rootNamespace": "YuzeToolkit.Json.Unity",
+  "references": [
+    "YuzeJsonTool.Core"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

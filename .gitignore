@@ -1,0 +1,3 @@
+/Roslyn/**/bin/
+/Roslyn/**/obj/
+.DS_Store
